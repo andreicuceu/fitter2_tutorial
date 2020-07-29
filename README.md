@@ -1,4 +1,4 @@
-# picca fitter2 Tutorial
+# picca fitter2 tutorial
 
 Make sure you have the necessary packages by running
 ```
@@ -11,6 +11,7 @@ or at NERSC:
 
 Picca and Polychord are also required. 
 Here are instructions for installing them at NERSC (assumes you have the default modules loaded):
+
 Make a new conda env:
 ```
 > module load python
@@ -42,6 +43,7 @@ Clone picca and install:
 > PATH_TO_CONDA_ENV/bin/pip install -e .
 > PATH_TO_CONDA_ENV/bin/pip install mpi4py
 ```
+
 
 To run the fitter:
 ```
