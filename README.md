@@ -56,3 +56,8 @@ To run in parallel in interactive mode at NERSC:
 > source activate picca
 > srun -n 32 PATH_TO_CONDA_ENV/bin/python PATH_TO_PICCA/bin/picca_fitter2_control_mpi.py chi2.ini
 ```
+
+If you want to run on your own PC, you can download the DR16 correlation functions from NERSC:
+```
+> /global/cfs/projectdirs/desi/science/lya/dr16_data
+```
