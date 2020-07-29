@@ -1,5 +1,5 @@
-pathlib
 matplotlib
 getdist
 anesthetic
 jupyterlab
+h5py
